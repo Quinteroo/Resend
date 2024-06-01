@@ -1,0 +1,17 @@
+{
+  "name": "resend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.cjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "resend": "^3.2.0"
+  }
+}
